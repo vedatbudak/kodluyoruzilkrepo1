@@ -35,3 +35,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 
+https://app.patika.dev/vedatbudak
+
+
