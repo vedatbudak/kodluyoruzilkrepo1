@@ -10,7 +10,7 @@
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzun linki gelecek) 
 
 ``` 
-     git clone [Link](https://github.com/vedatbudak/kodluyoruzilkrepo)
+     git clone https://github.com/vedatbudak/kodluyoruzilkrepo.git
 
 ``` 
 
